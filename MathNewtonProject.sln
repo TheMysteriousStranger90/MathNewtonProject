@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathNewtonProject", "MathNewtonProject\MathNewtonProject.csproj", "{1BE2396B-78B5-4721-AB05-2144B0DB714E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathNewtonClassLibrary", "MathNewtonClassLibrary\MathNewtonClassLibrary.csproj", "{398FC555-269D-4E79-A288-FBCE77DB77A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{1BE2396B-78B5-4721-AB05-2144B0DB714E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BE2396B-78B5-4721-AB05-2144B0DB714E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BE2396B-78B5-4721-AB05-2144B0DB714E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{398FC555-269D-4E79-A288-FBCE77DB77A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398FC555-269D-4E79-A288-FBCE77DB77A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398FC555-269D-4E79-A288-FBCE77DB77A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398FC555-269D-4E79-A288-FBCE77DB77A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
